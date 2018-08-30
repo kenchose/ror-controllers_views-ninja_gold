@@ -6,7 +6,6 @@ class RpgController < ApplicationController
   end
   
   def farm
-    reset_session
     d = Date.today.strftime("%B %m/%d/%Y")
     t = Time.now.strftime("%I:%M %p")
     @gold=rand(10..20)
