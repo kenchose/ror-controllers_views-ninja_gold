@@ -1,3 +1,3 @@
 == README
 
-Create a mini-game where a ninja can either earn or lose gold. There are 4 different button that sends post requests. Each button earns a different amount of gold. Display your total amount of gold earnings and how much you have earned or lost each time you click on one of the buttons on an index page.
+Create a mini-game where a ninja can either earn or lose gold. There are 4 different button that sends post requests. Each button earns or loses a random amount of gold. Display your total amount of gold earnings and how much you have earned or lost each time you click on one of the buttons on an index page.
